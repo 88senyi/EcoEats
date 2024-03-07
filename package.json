@@ -1,0 +1,34 @@
+{
+  "name": "ecoeatstea",
+  "version": "1.0.0",
+  "description": "Welcome to EcoEats! EcoEats is a sustainable food delivery and meal planning platform designed to promote environmentally-friendly eating habits and support local food producers. Whether you're looking for healthy meal options, eco-friendly ingredients, or sustainable recipes, EcoEats provides a convenient and eco-conscious solution for your dietary needs.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/88senyi/EcoEats.git"
+  },
+  "keywords": [
+    "sample",
+    "npm",
+    "package"
+  ],
+  "author": "88senyi",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.21", 
+    "axios": "^0.21.1", 
+    "express": "^4.17.1", 
+    "mongoose": "^5.12.5", 
+    "cors": "^2.8.5", 
+    "morgan": "^1.10.0", 
+    "bcryptjs": "^2.4.3", 
+    "jsonwebtoken": "^8.5.1", 
+    "validator": "^13.6.0", 
+    "nodemailer": "^6.6.3"
+  },
+  "peerDependencies": {
+    "react": ">=16.8.0",
+    "react-dom": ">=16.8.0"
+  }
+}
